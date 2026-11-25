@@ -1,7 +1,5 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2d2f,100:5b6770&height=180&section=header&text=Madhushaney%20Mahadevan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Undergraduate%20%E2%80%A2%20IIT%20Sri%20Lanka&descAlignY=58&descSize=16" alt="header" />
-</p>
+<h1 align="center">Hi, I'm Madhushaney 👋</h1>
+<p align="center"><b>AI &amp; Data Science Undergraduate · IIT Sri Lanka</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=5B6770&center=true&vCenter=true&width=560&lines=Engineer+turned+AI+%26+Data+Science+student;Turning+maths+into+models+%F0%9F%93%90%E2%9E%A1%EF%B8%8F%F0%9F%A4%96;I+learn+by+building+and+by+teaching" alt="typing intro" />
@@ -63,10 +61,4 @@
 
 🏅 *Operative of the Month*, Sainsbury's Argos UK (April 2023) &nbsp;·&nbsp; 🎤 Head Prefect & Debate Team Leader &nbsp;·&nbsp; 🎙️ President, Toastmasters' Club
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhushaney14&show_icons=true&hide_border=true&theme=transparent&title_color=5b6770&icon_color=5b6770&text_color=6e7681" height="150" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b6770,100:2b2d2f&height=100&section=footer" alt="footer" />
-</p>
+<p align="center"><i>Thanks for stopping by ✨</i></p>
