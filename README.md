@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:madhushaney14@gmail.com"><img src="https://img.shields.io/badge/Email-2b2d2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- To add LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <a href="https://www.linkedin.com/in/madhushaney-mahadevan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-2ea44f?style=for-the-badge" alt="Open to internships" />
 </p>
 
@@ -28,12 +28,13 @@
 
 | Area | Tools |
 |---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,py" height="32" alt="Java, Python" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js" height="32" alt="HTML, CSS, JavaScript" /> ![Accessibility](https://img.shields.io/badge/WCAG%202.1%20AA-5b6770?style=flat-square) ![Responsive](https://img.shields.io/badge/Responsive%20Design-5b6770?style=flat-square) |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,py,mysql" height="32" alt="Java, Python, MySQL" /> |
 | **Testing & Build** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
 | **Design** | ![UML](https://img.shields.io/badge/UML-2b2d2f?style=flat-square) ![OOP](https://img.shields.io/badge/Object--Oriented%20Design-5b6770?style=flat-square) |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,latex" height="32" alt="Tools" /> ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **Maths & Data** | ![Statistics](https://img.shields.io/badge/Statistics-5b6770?style=flat-square) ![Computational Maths](https://img.shields.io/badge/Computational%20Maths-5b6770?style=flat-square) ![Engineering Modelling](https://img.shields.io/badge/Engineering%20Modelling-5b6770?style=flat-square) |
-| **Learning next** | <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="Learning next" /> ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Learning next** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 
 ---
 
@@ -41,6 +42,7 @@
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[LearnHub](https://github.com/madhushaney14/learnhub)** · [Live demo](https://madhushaney14.github.io/learnhub/) | A responsive, accessible online learning platform with 48 courses loaded from XML, live search, filtering and sorting, and validated registration. WCAG 2.1 AA, 0 W3C errors | HTML · CSS · JavaScript · XML |
 | **Wildlife Rescue System** 🚧 | My Object-Oriented Development coursework: a wildlife rescue system designed with UML and built in Java *(in progress)* | Java · UML · IntelliJ |
 | **[Voting Management System (Java)](https://github.com/madhushaney14/voting-management-system-java)** | Manages voters, candidates and ballots from CSV data, with ID check-digit validation, district search and export to text. Unit-tested with JUnit | Java · Maven · JUnit |
 | **[Voting Management System (Python)](https://github.com/madhushaney14/voting-management-system-python)** | The same system rebuilt in Python as separate voter, candidate, voting, validation and reporting modules | Python |
