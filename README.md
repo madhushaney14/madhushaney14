@@ -29,7 +29,7 @@
 | Area | Tools |
 |---|---|
 | **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,js" height="32" alt="HTML, CSS, JavaScript" /> ![Accessibility](https://img.shields.io/badge/WCAG%202.1%20AA-5b6770?style=flat-square) ![Responsive](https://img.shields.io/badge/Responsive%20Design-5b6770?style=flat-square) |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,py,mysql" height="32" alt="Java, Python, MySQL" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,py,r,mysql" height="32" alt="Java, Python, R, MySQL" /> |
 | **Testing & Build** | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) |
 | **Design** | ![UML](https://img.shields.io/badge/UML-2b2d2f?style=flat-square) ![OOP](https://img.shields.io/badge/Object--Oriented%20Design-5b6770?style=flat-square) |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,latex" height="32" alt="Tools" /> ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
@@ -43,6 +43,8 @@
 | Project | What it does | Built with |
 |---|---|---|
 | **[LearnHub](https://github.com/madhushaney14/learnhub)** · [Live demo](https://madhushaney14.github.io/learnhub/) | A responsive, accessible online learning platform with 48 courses loaded from XML, live search, filtering and sorting, and validated registration. WCAG 2.1 AA, 0 W3C errors | HTML · CSS · JavaScript · XML |
+| **[HolidayHaven Travel Database](https://github.com/madhushaney14/holidayhaven-travel-database)** | A relational travel management database: 25 tables normalised to 3NF from an EERD, with constraints, ~480 rows of sample data and analytical multi-table SQL queries | MySQL · SQL · phpMyAdmin |
+| **[AI & Student Performance Analysis](https://github.com/madhushaney14/ai-student-performance-analysis)** | Statistical analysis of 8,000 students in R: EDA, probability, hypothesis testing and a multiple regression model explaining 86% of score variance | R · ggplot2 · R Markdown |
 | **Wildlife Rescue System** 🚧 | My Object-Oriented Development coursework: a wildlife rescue system designed with UML and built in Java *(in progress)* | Java · UML · IntelliJ |
 | **[Voting Management System (Java)](https://github.com/madhushaney14/voting-management-system-java)** | Manages voters, candidates and ballots from CSV data, with ID check-digit validation, district search and export to text. Unit-tested with JUnit | Java · Maven · JUnit |
 | **[Voting Management System (Python)](https://github.com/madhushaney14/voting-management-system-python)** | The same system rebuilt in Python as separate voter, candidate, voting, validation and reporting modules | Python |
